@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "968776425244",
+    "firebase_url": "https://basedatakira-default-rtdb.firebaseio.com",
+    "project_id": "basedatakira",
+    "storage_bucket": "basedatakira.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968776425244:android:c7af8cbdacbb45b602e4d9",
+        "android_client_info": {
+          "package_name": "com.example.firebase2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968776425244-ddbedihc4tvc343krtpg1cfh8ogkgpc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGXkAwUL35eIP6O46DFBjCY8IGrpFD6-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968776425244-ddbedihc4tvc343krtpg1cfh8ogkgpc2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
